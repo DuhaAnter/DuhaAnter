@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1215" height="223" viewBox="0 0 1215 223" role="img" aria-labelledby="title desc">
+  <title id="title">Duha Anter — Full Stack JavaScript Developer</title>
+  <desc id="desc">A dark navy GitHub profile banner with the name Duha Anter, a Full Stack JavaScript Developer title, JavaScript technology labels, and diagonal decorative shapes.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#101c2c"/>
+      <stop offset="100%" stop-color="#183747"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#55dfcf"/>
+      <stop offset="100%" stop-color="#55aef0"/>
+    </linearGradient>
+    <clipPath id="bannerClip">
+      <rect x="1" y="1" width="1213" height="221" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1213" height="221" rx="16" fill="url(#background)" stroke="#29465a" stroke-width="1.5"/>
+
+  <g clip-path="url(#bannerClip)" opacity="0.48">
+    <path d="M790 -20 L850 -20 L1065 223 L1005 223 Z" fill="#1c5360" opacity="0.65"/>
+    <path d="M910 -20 L970 -20 L1185 223 L1125 223 Z" fill="#1c5360" opacity="0.65"/>
+    <path d="M1030 -20 L1090 -20 L1305 223 L1245 223 Z" fill="#1c5360" opacity="0.65"/>
+  </g>
+
+  <rect x="48" y="37" width="46" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="48" y="102" fill="#f1f5fb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="47" font-weight="700" letter-spacing="-1.2">Duha Anter</text>
+  <text x="49" y="145" fill="#80eadb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">Full Stack JavaScript Developer</text>
+  <text x="49" y="190" fill="#b9c8d8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">JavaScript  ·  TypeScript  ·  Node.js  ·  React</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <rect x="805" y="77" width="116" height="42" rx="10" fill="#30284e" stroke="#8062b7"/>
+    <text x="863" y="103" fill="#e2d7ff">JavaScript</text>
+
+    <rect x="934" y="77" width="112" height="42" rx="10" fill="#482936" stroke="#a34d68"/>
+    <text x="990" y="103" fill="#ffd0dc">Node.js</text>
+
+    <rect x="1059" y="77" width="112" height="42" rx="10" fill="#123e4b" stroke="#398b9d"/>
+    <text x="1115" y="103" fill="#a9eff7">React</text>
+  </g>
+</svg>
